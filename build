@@ -11,7 +11,7 @@ fi
 
 if [ -z "$2" ] || [ "$2" = "pdf" ]; then
     pandoc --standalone --from markdown --to context \
-        -V papersize=A4 \
+        -V papersize=A4 --template assets/template.tex \
         -o "docs/$1/resume.tex" "resume.$1.md"
     if [ ! $? -eq 0 ]; then
         exit 1

@@ -1,0 +1,98 @@
+\startmode[*mkii]
+  \enableregime[utf-8]  
+  \setupcolors[state=start]
+\stopmode
+$if(mainlang)$
+  \mainlanguage[$mainlang$]
+$endif$
+
+$if(papersize)$
+  \setuppapersize[$papersize$][$papersize$]
+$else$
+    \setuppapersize[A4][A4]
+$endif$
+
+\def\hmargin{0.5cm}
+\setuplayout[
+  backspace=12mm,
+  width=186mm,
+  topspace=12mm,
+  bottomspace=0mm,
+  header=0mm,
+  footer=1mm,
+  height=260mm,
+]
+
+\setupheader[state=stop]
+
+\setupinteraction[
+  state=start,
+  color=black,
+  style={\underbar},
+]
+$if(title)$
+  \setupinteraction[title=$title$]
+$endif$
+
+\usetypescript[helvetica]
+\setupbodyfont[helvetica]
+
+\setupbodyfontenvironment[12pt][
+  b=14.4pt,
+  a=18pt,
+]
+\setupinterlinespace[line=13pt]
+
+\def\MyHeadSkip{\blank[12pt]}
+\setuphead[section, subsection, subsubsection][
+  number=no,
+  before=,
+  after=\MyHeadSkip,
+]
+\setuphead[section][style={\tfa\bf\setupalign[middle]}]
+\setuphead[subsection][
+  style={\tfb\bf\setupalign[right]},
+  before={\MyHeadSkip},
+]
+
+\setuphead[subsubsection][
+  style={\bf\setupalign[right]},
+  distance=12pt,
+]
+
+\definedescription[description][
+  location=,
+  width=broad,
+  style={\blank[0mm]},
+  headstyle=\bf,
+  margin=0mm,
+  hang=1,
+]
+
+\setupdelimitedtext[blockquote][
+  before={\setupalign[middle]},
+  after=,
+]
+
+\def\MyFooter{\MyHeadSkip\MyHeadSkip\startalignment[flushright]$date$\stopalignment}
+$if(date)$
+\setupfootertexts
+  []
+  [\MyFooter]
+  [\MyFooter]
+  []
+$endif$
+
+\starttext
+  $if(title)$
+    \section[title]{$title$}
+  $endif$
+  $if(toc)$
+    \placecontent
+  $endif$
+
+  \startnarrower[left]
+  $body$
+  \stopnarrower
+
+\stoptext

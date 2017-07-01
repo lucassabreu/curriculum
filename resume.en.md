@@ -1,20 +1,22 @@
-LUCAS DOS SANTOS ABREU
-======================
+---
+title: LUCAS DOS SANTOS ABREU
+mainlang: pt-BR
+date: 07 / 2017
+---
 
-> Rua Ivone Carazai Giulliare, Bairro: Adhemar Garcia - Joinville, SC.  
-> E-mail: [lucas.s.abreu@gmail.com](mailto:lucas.s.abreu@gmail.com) / Telefone: Celular: [(47) 9645-1033](tel:+554796451033)  
-> Brasileiro, solteiro, 22 anos.
-
-Twitter: [@LucasSantAbreu](http://twitter.com/LucasSantAbreu) /
-Medium: [@lucassabreu](https://medium.com/@lucassabreu/) /
-GitHub: <https://github.com/lucassabreu> /
-LinkedIn: <https://br.linkedin.com/in/lucassantosabreu>  
+> Twitter: [\@LucasSantAbreu](http://twitter.com/LucasSantAbreu) |
+> Medium: [\@lucassabreu](https://medium.com/@lucassabreu/)  
+> GitHub: [https://github.com/lucassabreu/](https://github.com/lucassabreu)  
+> LinkedIn: [https://br.linkedin.com/in/lucassantosabreu/](https://br.linkedin.com/in/lucassantosabreu)
+>
+> E-mail: [lucas.s.abreu@gmail.com](mailto:lucas.s.abreu@gmail.com) / Celular: [(47) 9645-1033](tel:554796451033)
+>
+> Brasileiro / Joinville, SC - Brasil
 
 Objetivo:
 ---------
 
-Avançar na carreira de desenvolvimento de sistemas buscando sempre expandir
-meus conhecimentos em tecnologias de desenvolvimento e análise de informação.
+Avançar na carreira de desenvolvimento de sistemas buscando sempre expandir meus conhecimentos em tecnologias de desenvolvimento e análise de informação.
 
 Conhecimentos:
 --------------
@@ -31,15 +33,17 @@ Conhecimentos:
 Formação:
 ---------
 
- * Bacharelado em Sistemas de Informação
-    - Local: Universidade da Região de Joinville - Univille
-    - Período: janeiro de 2012 a julho de 2016
- * Técnico de Informática
-    - Local: SENAI Norte I
-    - Período: janeiro de 2010 a dezembro de 2011
- * Aprendizagem de Suporte e Man. de Computadores e Redes
-    - Local: SENAI Norte I
-    - Período: Fevereiro a dezembro 2009
+Bacharelado em Sistemas de Informação
+  ~ Local: Universidade da Região de Joinville - Univille
+  ~ Período: janeiro de 2012 a julho de 2016
+
+Técnico de Informática
+  ~ Local: SENAI Norte I
+  ~ Período: janeiro de 2010 a dezembro de 2011
+
+Aprendizagem de Suporte e Man. de Computadores e Redes
+  ~ Local: SENAI Norte I
+  ~ Período: Fevereiro a dezembro 2009
 
 Cursos extra-curriculares:
 --------------------------
@@ -53,5 +57,4 @@ Cursos extra-curriculares:
 Informações adicionais:
 -----------------------
 
- * 3º lugar na 9º Olimpíada do Conhecimento (2009) na etapa estadual.
- * Desenvolvimento da Ferramenta Lattes Extractor para apoio a gestão de competências aplicado na Plataforma
+ * Artigo publicado "Ferramenta para Extração e Análise das Informações do Currículo Lattes" [http://sbsi2017.dcc.ufla.br/download/wicsi.pdf](//sbsi2017.dcc.ufla.br/download/wicsi.pdf)
