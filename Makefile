@@ -12,23 +12,27 @@ en: html-en pdf-en
 build-docker-image:
 	docker build -t resume-build -f Dockerfile .
 
-pdf-pt-br: build-docker-image
+mkdir-pt-br:
+	mkdir -p "docs/pt-br"
+
+pdf-pt-br: build-docker-image mkdir-pt-br
 	${DOCKER_RUN} ./build pt-br pdf
 
-html-pt-br: build-docker-image
+html-pt-br: build-docker-image mkdir-pt-br
 	${DOCKER_RUN} ./build pt-br html
 
 clean-pt-br:
-	rm -f "resume.pt-br.html"
-	rm -f "resume.pt-br.pdf"
+	rm -rf "docs/pt-br"
 
-pdf-en: build-docker-image
+mkdir-en:
+	mkdir -p "docs/en"
+
+pdf-en: build-docker-image mkdir-en
 	${DOCKER_RUN} ./build en pdf
 
-html-en: build-docker-image
+html-en: build-docker-image mkdir-en
 	${DOCKER_RUN} ./build en html
 
 clean-en:
-	rm -f "resume.en.html"
-	rm -f "resume.en.pdf"
+	rm -rf "docs/en"
 

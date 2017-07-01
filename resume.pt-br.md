@@ -1,14 +1,15 @@
-LUCAS DOS SANTOS ABREU
+Lucas dos Santos Abreu
 ======================
 
-> Rua Ivone Carazai Giulliare, Bairro: Adhemar Garcia - Joinville, SC.  
-> E-mail: [lucas.s.abreu@gmail.com](mailto:lucas.s.abreu@gmail.com) / Telefone: Celular: [(47) 9645-1033](tel:+554796451033)  
-> Brasileiro, solteiro, 22 anos.
+> Twitter: [\@LucasSantAbreu](http://twitter.com/LucasSantAbreu) |
+> Medium: [\@lucassabreu](https://medium.com/@lucassabreu/) |
+> GitHub: <https://github.com/lucassabreu> |
+> LinkedIn: <https://br.linkedin.com/in/lucassantosabreu>
+>
+> E-mail: [lucas.s.abreu@gmail.com](mailto:lucas.s.abreu@gmail.com) / Telefone: Celular: [+55 (47) 9645-1033](tel:554796451033)
+>
+> Brasileiro / Joinville, SC - Brasil
 
-Twitter: [@LucasSantAbreu](http://twitter.com/LucasSantAbreu) /
-Medium: [@lucassabreu](https://medium.com/@lucassabreu/) /
-GitHub: <https://github.com/lucassabreu> /
-LinkedIn: <https://br.linkedin.com/in/lucassantosabreu>  
 
 Objetivo:
 ---------
