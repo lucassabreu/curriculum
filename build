@@ -1,0 +1,26 @@
+#!/bin/bash
+
+if [ -z "$2" ] || [ "$2" = "html" ]; then
+    pandoc --standalone --from markdown --to html \
+        -H style.css \
+        -o "resume.$1.html" "resume.$1.md"
+    if [ ! $? -eq 0 ]; then
+        exit 1
+    fi
+fi
+
+if [ -z "$2" ] || [ "$2" = "pdf" ]; then
+    pandoc --standalone --from markdown --to context \
+        -V papersize=A4 \
+        -o "resume.$1.tex" "resume.$1.md"
+    if [ ! $? -eq 0 ]; then
+        exit 1
+    fi
+
+    context "resume.$1.tex"
+    if [ ! $? -eq 0 ]; then
+        exit 1
+    fi
+    rm "resume.$1.tex" "resume.$1.tuc" "resume.$1.log"
+fi
+
