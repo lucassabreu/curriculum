@@ -25,17 +25,18 @@ $endif$
 
 \setupheader[state=stop]
 
+\usetypescript[helvetica]
+\setupbodyfont[helvetica]
+
 \setupinteraction[
+  helvetica,
   state=start,
   color=black,
-  style={\underbar},
+  style={\underbar\ss},
 ]
 $if(title)$
   \setupinteraction[title=$title$]
 $endif$
-
-\usetypescript[helvetica]
-\setupbodyfont[helvetica]
 
 \setupbodyfontenvironment[12pt][
   b=14.4pt,

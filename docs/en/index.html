@@ -74,10 +74,24 @@
               bottom: 0;
               right: 0;
           }
+  
+      }
+  
+      a.pdf-link {
+          position: absolute;
+          top: .5rem;
+          right: calc((100% - 800px) / 2);
+          text-decoration: none;
+      }
+  
+      @media print {
+          a.pdf-link {
+              display: none;
+          }
       }
   </style>
   
-  <a href="resume.pdf">PDF</a>
+  <a class="pdf-link" href="resume.pdf">⤵️ PDF</a>
 </head>
 <body>
 <div id="header">

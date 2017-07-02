@@ -6,8 +6,8 @@ date: 07 / 2017
 
 > Twitter: [\@LucasSantAbreu](http://twitter.com/LucasSantAbreu) |
 > Medium: [\@lucassabreu](https://medium.com/@lucassabreu/)  
-> GitHub: [https://github.com/lucassabreu/](https://github.com/lucassabreu)  
-> LinkedIn: [https://br.linkedin.com/in/lucassantosabreu/](https://br.linkedin.com/in/lucassantosabreu)
+> GitHub: <https://github.com/lucassabreu>  
+> LinkedIn: <https://br.linkedin.com/in/lucassantosabreu>
 >
 > E-mail: [lucas.s.abreu@gmail.com](mailto:lucas.s.abreu@gmail.com) / Celular: [(47) 9645-1033](tel:554796451033)
 >
@@ -22,12 +22,12 @@ Conhecimentos:
 --------------
 
  * Linguagens de Programação: Java, PHP, C#, JavaScript e Progress 4GL.
- * Tecnologias e Frameworks: SQL, HTML, CSS, XML, UML, Zend Framework 2 (básico) e AngularJS (básico).
- * Conhecimento intermediário em Microsoft SQL Server e básico em MySQL
+ * Tecnologias e Frameworks: SQL, HTML, CSS, XML, UML, Zend Framework 2, Symfony Framework, Zend Expressive 2 (básico), React (básico) e AngularJS (básico).
+ * Conhecimento intermediário em Microsoft SQL Server, Docker, Kubernetes e OpenShift.
+ * Conhecimento básico com MySQL, ProgreSQL e MongoDB.
  * Business Intelligence aplicado nas tecnologias: Microsoft Analysis Services, GoodData, IBM Cognos, Tableau e Microsoft Excel.
  * Experiência com analise de sistemas e desenvolvimento de software
  * Conhecimento básico em processos de Contas a Receber, Contas a Pagar, Ativo Fixo e Aplicações e Empréstimos.
- * Microsoft Office Avançado.
  * Linux (usuário desenvolvedor).
 
 Formação:
@@ -58,3 +58,7 @@ Informações adicionais:
 -----------------------
 
  * Artigo publicado "Ferramenta para Extração e Análise das Informações do Currículo Lattes" [http://sbsi2017.dcc.ufla.br/download/wicsi.pdf](//sbsi2017.dcc.ufla.br/download/wicsi.pdf)
+ * Duas séries de postagens no Medium sobre Kubernetes e OpenShift:
+    * Ambientes por Branch com OpenShift Next Gen (<http://bit.ly/ambientes-por-branch>)
+    * Um ambiente simples usando Kubernetes e OpenShift Next Gen (<http://bit.ly/ambiente-kubernetes-simples>)
+

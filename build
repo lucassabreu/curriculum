@@ -21,6 +21,6 @@ if [ -z "$2" ] || [ "$2" = "pdf" ]; then
     if [ ! $? -eq 0 ]; then
         exit 1
     fi
-    rm "resume.tex" "resume.tuc" "resume.log"
+#    rm "resume.tex" "resume.tuc" "resume.log"
 fi
 
