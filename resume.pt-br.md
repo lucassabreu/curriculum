@@ -21,7 +21,7 @@ Avançar na carreira de desenvolvimento de sistemas buscando sempre expandir meu
 Conhecimentos:
 --------------
 
- * Linguagens de Programação: Java, PHP, C#, JavaScript e Progress 4GL.
+ * Linguagens de Programação: Java, PHP, C#, JavaScript, Node JS e Progress 4GL.
  * Tecnologias e Frameworks: SQL, HTML, CSS, XML, UML, Zend Framework 2, Symfony Framework, Zend Expressive 2 (básico), React (básico) e AngularJS (básico).
  * Conhecimento intermediário em Microsoft SQL Server, Docker, Kubernetes e OpenShift.
  * Conhecimento básico com MySQL, ProgreSQL e MongoDB.
@@ -41,9 +41,16 @@ Técnico de Informática
   ~ Local: SENAI Norte I
   ~ Período: janeiro de 2010 a dezembro de 2011
 
-Aprendizagem de Suporte e Man. de Computadores e Redes
-  ~ Local: SENAI Norte I
-  ~ Período: Fevereiro a dezembro 2009
+Experiência Profissional:
+-------------------------
+
+Coderockr - Cargo: Técnico em Programação (Back-End)
+ ~ Período: setembro de 2016 ao momento
+ ~ Resumo: Construção de aplicações voltadas para a Web para fins escolares, ecommerce, ERP. Atuando também com DevOps implementação de processos de Integração Contínua, Testes Unitários e Deploy Automatizado.
+
+TOTVS Santa Catarina - Cargo: Técnico em Progração
+ ~ Período: novembro de 2010 a setembro de 2016
+ ~ Resumo: Construção de programas de acerto e melhoria de processo nas áreas de Finanças e Controladoria; Desenvolvimento e melhoria de processo para Business Intelligence utilizando Microsoft Analysis Services, IBM Cognos e GoodData; com aplicações construídas em Progress 4GL e SQL;
 
 Cursos extra-curriculares:
 --------------------------
@@ -57,8 +64,7 @@ Cursos extra-curriculares:
 Informações adicionais:
 -----------------------
 
- * Artigo publicado "Ferramenta para Extração e Análise das Informações do Currículo Lattes" [http://sbsi2017.dcc.ufla.br/download/wicsi.pdf](//sbsi2017.dcc.ufla.br/download/wicsi.pdf)
- * Duas séries de postagens no Medium sobre Kubernetes e OpenShift:
-    * Ambientes por Branch com OpenShift Next Gen (<http://bit.ly/ambientes-por-branch>)
-    * Um ambiente simples usando Kubernetes e OpenShift Next Gen (<http://bit.ly/ambiente-kubernetes-simples>)
+ * Artigo publicado "Ferramenta para Extração e Análise das Informações do Currículo Lattes" <http://sbsi2017.dcc.ufla.br/download/wicsi.pdf>
+ * Ambientes por Branch com OpenShift Next Gen (<http://bit.ly/ambientes-por-branch>)
+ * Um ambiente simples usando Kubernetes e OpenShift Next Gen (<http://bit.ly/ambiente-kubernetes-simples>)
 
