@@ -46,7 +46,7 @@ Experiência Profissional:
 
 Coderockr - Cargo: Técnico em Programação (Back-End)
  ~ Período: setembro de 2016 ao momento
- ~ Resumo: Construção de aplicações voltadas para a Web para fins escolares, ecommerce, ERP. Atuando também com DevOps implementação de processos de Integração Contínua, Testes Unitários e Deploy Automatizado.
+ ~ Resumo: Construção de aplicações voltadas para a Web PHP para fins escolares, ecommerce e ERP. Atuando também com DevOps implementação de processos de Integração Contínua, Testes Unitários e Deploy Automatizado (Buildkite, PHPUnit, Docker e Deploybot).
 
 TOTVS Santa Catarina - Cargo: Técnico em Progração
  ~ Período: novembro de 2010 a setembro de 2016
