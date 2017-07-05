@@ -1,60 +1,70 @@
 ---
 title: LUCAS DOS SANTOS ABREU
-mainlang: pt-BR
+mainlang: en
 date: 07 / 2017
 ---
 
 > Twitter: [\@LucasSantAbreu](http://twitter.com/LucasSantAbreu) |
 > Medium: [\@lucassabreu](https://medium.com/@lucassabreu/)  
-> GitHub: [https://github.com/lucassabreu/](https://github.com/lucassabreu)  
-> LinkedIn: [https://br.linkedin.com/in/lucassantosabreu/](https://br.linkedin.com/in/lucassantosabreu)
+> GitHub: <https://github.com/lucassabreu>  
+> LinkedIn: <https://br.linkedin.com/in/lucassantosabreu>
 >
-> E-mail: [lucas.s.abreu@gmail.com](mailto:lucas.s.abreu@gmail.com) / Celular: [(47) 9645-1033](tel:554796451033)
+> E-mail: [lucas.s.abreu@gmail.com](mailto:lucas.s.abreu@gmail.com) / Phone: [+55 (47) 9645-1033](tel:554796451033)
 >
-> Brasileiro / Joinville, SC - Brasil
+> Brazilian / Joinville, SC - Brazil
 
-Objetivo:
----------
+Objective:
+----------
 
-Avançar na carreira de desenvolvimento de sistemas buscando sempre expandir meus conhecimentos em tecnologias de desenvolvimento e análise de informação.
+To keep advancing in the career of software engineer, always seeking to expand my knowledge in technologies about information development and analysis.
 
-Conhecimentos:
---------------
+Knowledges:
+-----------
 
- * Linguagens de Programação: Java, PHP, C#, JavaScript e Progress 4GL.
- * Tecnologias e Frameworks: SQL, HTML, CSS, XML, UML, Zend Framework 2 (básico) e AngularJS (básico).
- * Conhecimento intermediário em Microsoft SQL Server e básico em MySQL
- * Business Intelligence aplicado nas tecnologias: Microsoft Analysis Services, GoodData, IBM Cognos, Tableau e Microsoft Excel.
- * Experiência com analise de sistemas e desenvolvimento de software
- * Conhecimento básico em processos de Contas a Receber, Contas a Pagar, Ativo Fixo e Aplicações e Empréstimos.
- * Microsoft Office Avançado.
- * Linux (usuário desenvolvedor).
+ * Languages: Java, PHP, C#, JavaScript, Node JS e Progress 4GL.
+ * Frameworks and Tecnologies: SQL, HTML, CSS, XML, UML, Zend Framework 2, Symfony Framework, Zend Expressive 2 (básico), React (básico) e AngularJS (básico).
+ * Intermediate knowledge with Microsoft SQL Server, Docker, Kubernetes e OpenShift.
+ * Basic knowledge with MySQL, PostgreSQL e MongoDB.
+ * Business Intelligence applied at: Microsoft Analysis Services, GoodData, IBM Cognos, Tableau e Microsoft Excel.
+ * Experience doing system analysis and software development
+ * Basic knowledge with Accounts Receivable, Account Payable, Fixed Asset e Applications and Loans financial modules.
+ * Linux (user developer level).
 
-Formação:
----------
+Education:
+----------
 
-Bacharelado em Sistemas de Informação
-  ~ Local: Universidade da Região de Joinville - Univille
-  ~ Período: janeiro de 2012 a julho de 2016
+Bachelor of Information Systems:
+  ~ Place: Universidade da Região de Joinville - Univille
+  ~ Time period: january 2012 until july 2016
 
-Técnico de Informática
-  ~ Local: SENAI Norte I
-  ~ Período: janeiro de 2010 a dezembro de 2011
 
-Aprendizagem de Suporte e Man. de Computadores e Redes
-  ~ Local: SENAI Norte I
-  ~ Período: Fevereiro a dezembro 2009
+Computer Technician:
+  ~ Place: SENAI Norte I
+  ~ Time period: january 2010 until december 2011
 
-Cursos extra-curriculares:
+Experience:
+-------------------------
+
+Coderockr - Title: Back-end Programmer
+ ~ Time period: setember 2016 until now
+ ~ Abstract: Construction of web-oriented PHP applications for school, ecommerce and ERP purposes. Also working with DevOps implementation of Continuous Integration, Unit Testing and Automated Deploy processes (Buildkite, PHPUnit, Docker and Deploybot).
+
+TOTVS Santa Catarina - Cargo: Técnico em Progração
+ ~ Time period: novembro de 2010 a setembro de 2016
+ ~ Abstract: Construction of correction and improvement programs in the areas of Finance and Controllership; Development and process improvement for Business Intelligence using Microsoft Analysis Services, IBM Cognos and GoodData; With applications built on Progress 4GL and SQL.
+
+Extra-curriculum:
 --------------------------
 
- * Inglês básico (CEDESPY, 2009)
- * Tecnologia Progress 4GL (TOTVS, 2011)
- * Zend Framework 2 na prática (CodeSquad, 2013)
+ * Progress 4GL (TOTVS, 2011)
+ * Zend Framework 2 applied (CodeSquad, 2013)
  * IBM Cognos Framework Manager: Design Metadata Models (IBM Leader Portal, 2013)
- * Curso de Oratória e Liderança com Ênfase em Apresentações (Clube de Oratória e Liderança de Joinville-SC, 2015)
+ * Speech and Leadership Course with Emphasis on Presentations (Clube de Oratória e Liderança de Joinville-SC, 2015)
 
-Informações adicionais:
+Other achievements:
 -----------------------
 
- * Artigo publicado "Ferramenta para Extração e Análise das Informações do Currículo Lattes" [http://sbsi2017.dcc.ufla.br/download/wicsi.pdf](//sbsi2017.dcc.ufla.br/download/wicsi.pdf)
+ * Published article "Tool for extraction and analysis of information Curriculum Lattes" <http://sbsi2017.dcc.ufla.br/download/wicsi.pdf>
+ * Environments per Branch using OpenShift Next Gen (<http://bit.ly/ambientes-por-branch>)
+ * A simple enviroment using Kubernetes and OpenShift Next Gen (<http://bit.ly/ambiente-kubernetes-simples>)
+

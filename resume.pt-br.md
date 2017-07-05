@@ -24,7 +24,7 @@ Conhecimentos:
  * Linguagens de Programação: Java, PHP, C#, JavaScript, Node JS e Progress 4GL.
  * Tecnologias e Frameworks: SQL, HTML, CSS, XML, UML, Zend Framework 2, Symfony Framework, Zend Expressive 2 (básico), React (básico) e AngularJS (básico).
  * Conhecimento intermediário em Microsoft SQL Server, Docker, Kubernetes e OpenShift.
- * Conhecimento básico com MySQL, ProgreSQL e MongoDB.
+ * Conhecimento básico com MySQL, PostgreSQL e MongoDB.
  * Business Intelligence aplicado nas tecnologias: Microsoft Analysis Services, GoodData, IBM Cognos, Tableau e Microsoft Excel.
  * Experiência com analise de sistemas e desenvolvimento de software
  * Conhecimento básico em processos de Contas a Receber, Contas a Pagar, Ativo Fixo e Aplicações e Empréstimos.
