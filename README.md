@@ -3,7 +3,7 @@ My Curriculum
 
 Versions:
 
- * Português: [Markdown](resume.pt-br.md) | [PDF](resume.pt-br.pdf) | [HTML](resume.pt-br.html)
- * English: [Markdown](resume.en.md) | [PDF](resume.en.pdf) | [HTML](resume.en.html)
+ * Português: [Markdown](resume.pt-br.md) | [PDF](docs/pt-br/resume.pdf) | [HTML](http://www.lucassabreu.net.br/resume/pt-br/)
+ * English: [Markdown](resume.en.md) | [PDF](docs/en/resume.pdf) | [HTML](http://www.lucassabreu.net.br/resume/en/)
 
 Based on <https://github.com/mszep/pandoc_resume>
